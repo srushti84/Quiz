@@ -1,0 +1,12 @@
+name: quiz
+title: quiz
+username: srushti84
+account: srushti84
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12938212
+bundleId: 9190420
+url: https://srushti84.shinyapps.io/quiz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
